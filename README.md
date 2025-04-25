@@ -56,12 +56,4 @@ These notes are based on my own learning and interpretation of the course materi
 
 ---
 
-## ✨ Connect with Me
-
-📫 [Your Email]  
-💼 [Your LinkedIn]  
-📁 [Your Portfolio or GitHub Profile]
-
----
-
 Thanks for visiting and feel free to ⭐ this repo if you find it helpful!
